@@ -1,0 +1,8 @@
+Package: rdatavn
+Title: Vietnam's Market Data
+Version: 0.1.0
+Authors@R: person("Doan", "Nguyen", email = "doan.1988@gmail.com", role = c("aut", "cre"))
+Description: Load and process stocks data in Vietnam's market.
+Depends: R (>= 3.4.0)
+Imports: utils,dplyr
+License: MIT + file LICENSE
